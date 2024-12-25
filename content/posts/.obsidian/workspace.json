@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "2a68a53f8e0812aa",
+        "id": "1294134a799890b4",
         "type": "tabs",
         "children": [
           {
@@ -162,6 +162,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d57f9711a59c73e",
-  "lastOpenFiles": []
+  "active": "1f6db3dc9cf705a7",
+  "lastOpenFiles": [
+    "my-first-post.md"
+  ]
 }

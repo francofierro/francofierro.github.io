@@ -2,18 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- 0.140.1</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 25 Dec 2024 14:33:21 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>https://example.org/posts/my-first-post/</link>
       <pubDate>Wed, 25 Dec 2024 14:33:21 -0300</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description></description>
+      <guid>https://example.org/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;un-título-con-texto&#34;&gt;Un título con texto&lt;/h1&gt;
+&lt;p&gt;Un texto que no es título.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Uno&lt;/li&gt;
+&lt;li&gt;Dos&lt;/li&gt;
+&lt;/ol&gt;</description>
     </item>
   </channel>
 </rss>
