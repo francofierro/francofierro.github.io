@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "my-second-post.md",
+                "file": "my-third-post.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "my-second-post"
+              "title": "my-third-post"
             }
           }
         ]
@@ -164,6 +164,9 @@
   },
   "active": "1f6db3dc9cf705a7",
   "lastOpenFiles": [
+    "obsidianMapping.md",
+    "my-second-post.md",
+    "my-third-post.md",
     "my-first-post.md"
   ]
 }

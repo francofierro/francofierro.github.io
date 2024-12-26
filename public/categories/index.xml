@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on Franco Fierro Blog</title>
+    <title>Categories on Franco Fierro</title>
     <link>https://francofierro.github.io/categories/</link>
-    <description>Recent content in Categories on Franco Fierro Blog</description>
+    <description>Recent content in Categories on Franco Fierro</description>
     <generator>Hugo -- 0.140.1</generator>
     <language>en-us</language>
+    <copyright>2025 Franco Fierro</copyright>
     <atom:link href="https://francofierro.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
