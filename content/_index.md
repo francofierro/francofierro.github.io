@@ -1,4 +1,5 @@
 
-# Welcome to this new website!
+# Welcome!
 
-Currently the site is under Construction 🔨
+🔨 Currently the site is under construction 🔨
+
