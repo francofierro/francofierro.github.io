@@ -11,7 +11,9 @@ copyright = '© 2025 Franco Fierro'
 
 [menu]
     [[menu.main]]
-    name = 'Content'
+    name = 'Posts'
     url = '/posts/'
-    weight = 1
+    [[menu.main]]
+    name = 'About'
+    url = ''
 

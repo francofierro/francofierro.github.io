@@ -1,17 +1,23 @@
 {{define "main"}}
-    <div style="margin: 35%;"></div>
+    <div class="main-content" style="text-align: center; margin: 0 auto;">
+        <div style="margin: 30%;"></div>
 
-    <div class="homepage">
-        {{.Content}}
+        <p style="font-size: 40px; font-weight: bold;">
+            CS Student at <a href="https://ethz.ch/" style="text-decoration: underline;">ETH</a>
+        </p>
+
+        <div style="margin: 20px;"></div>
+
+        <a href="mailto:ffierro@ethz.ch" style="display: inline-flex; align-items: center;">
+            <i class="fas fa-envelope" style="margin-right: 8px;"></i> ffierro@ethz.ch 
+        </a>
+
+        <a href="https://www.instagram.com/francofierro_/" style="display: inline-flex; align-items: center;" target="_blank">
+            <i class="fab fa-instagram" style="margin-right: 6px; margin-left: 16px"></i> @francofierro_
+        </a>
+
+        <a href="https://www.goodreads.com/user/show/184309930-franco-fierro" style="display: inline-flex; align-items: center;" target="_blank">
+            <i class="fab fa-goodreads" style="margin-right: 6px; margin-left: 16px"></i> @francofierro
+        </a>
     </div>
-
-    <div style="margin: 20px;"></div>
-
-    <a href="mailto:ffierro@ethz.ch" style="display: inline-flex; align-items: center; text-decoration: none;">
-        <i class="fas fa-envelope" style="margin-right: 8px;"></i> ffierro@ethz.ch
-    </a>
-
-    <a href="https://www.instagram.com/francofierro_/" style="display: inline-flex; align-items: center; text-decoration: none;">
-        <i class="fab fa-instagram" style="margin-right: 6px; margin-left: 16px"></i> @francofierro_
-    </a>
 {{end}}
