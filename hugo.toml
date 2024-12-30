@@ -1,10 +1,17 @@
 baseURL = 'https://francofierro.github.io/'
 languageCode = 'en-us'
-title = 'Franco Fierro'
+title = 'Franco Fierro 🥑'
 theme = 'PaperMod'
 enableEmoji = true
 copyright = '© 2025 Franco Fierro'
-[params.homeInfoParams]
-Title = "Hi there :wave:"
-Content = "Here are my blog posts"
+
+[params]
+    defaultTheme = 'auto'
+    disableThemeToggle = true
+
+[menu]
+    [[menu.main]]
+    name = 'Content'
+    url = '/posts/'
+    weight = 1
 

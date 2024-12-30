@@ -1,0 +1,39 @@
+.info-box{
+    margin: 100px auto;
+    padding: 20px;
+    width: 80%;
+    max-width: 600px;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.info-box h1 {
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  .info-box p {
+    font-size: 1.2rem;
+    color: #555;
+  }
+
+  .contact-links ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .contact-links li {
+    margin: 5px 0;
+  }
+  
+  .contact-links a {
+    text-decoration: none;
+    color: #007acc;
+  }
+  
+  .contact-links a:hover {
+    text-decoration: underline;
+  }
