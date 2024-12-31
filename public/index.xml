@@ -7,38 +7,6 @@
     <generator>Hugo -- 0.140.1</generator>
     <language>en-us</language>
     <copyright>2025 Franco Fierro</copyright>
-    <lastBuildDate>Wed, 25 Dec 2024 20:10:23 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>This One Is Special</title>
-      <link>http://localhost:1313/posts/my-third-post/</link>
-      <pubDate>Wed, 25 Dec 2024 20:10:23 -0300</pubDate>
-      <guid>http://localhost:1313/posts/my-third-post/</guid>
-      <description>&lt;p&gt;Let this text be the main introduction to what it is that I am writing. 💬&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My Second Post</title>
-      <link>http://localhost:1313/posts/my-second-post/</link>
-      <pubDate>Wed, 25 Dec 2024 15:27:03 -0300</pubDate>
-      <guid>http://localhost:1313/posts/my-second-post/</guid>
-      <description>&lt;h1 id=&#34;mi-único-título&#34;&gt;Mi único título&lt;/h1&gt;
-&lt;p&gt;Aquí va la información.&lt;/p&gt;
-&lt;p&gt;Es importante considerar lo siguiente&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;System.&lt;span style=&#34;color:#a6e22e&#34;&gt;out&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;println&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Working&amp;#34;&lt;/span&gt;);
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Wed, 25 Dec 2024 14:33:21 -0300</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h1 id=&#34;un-título-con-texto&#34;&gt;Un título con texto&lt;/h1&gt;
-&lt;p&gt;Un texto que no es título.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Uno&lt;/li&gt;
-&lt;li&gt;Dos&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Agrego esto para probar.&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>
