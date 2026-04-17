@@ -3,17 +3,16 @@ languageCode = 'en-us'
 title = 'Franco Fierro 🥑'
 theme = 'PaperMod'
 enableEmoji = true
-copyright = '© 2025 Franco Fierro'
 
 [params]
     defaultTheme = 'auto'
     disableThemeToggle = true
 
+[params.author]
+    name = 'Franco Fierro'
+
 [menu]
     [[menu.main]]
     name = 'Posts'
     url = '/posts/'
-    [[menu.main]]
-    name = 'About'
-    url = ''
 

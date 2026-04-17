@@ -4,9 +4,8 @@
     <title>Categories on Franco Fierro 🥑</title>
     <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Franco Fierro 🥑</description>
-    <generator>Hugo -- 0.140.1</generator>
+    <generator>Hugo -- 0.160.1</generator>
     <language>en-us</language>
-    <copyright>2025 Franco Fierro</copyright>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

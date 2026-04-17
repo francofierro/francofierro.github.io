@@ -4,9 +4,8 @@
     <title>Posts on Franco Fierro 🥑</title>
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Franco Fierro 🥑</description>
-    <generator>Hugo -- 0.140.1</generator>
+    <generator>Hugo -- 0.160.1</generator>
     <language>en-us</language>
-    <copyright>2025 Franco Fierro</copyright>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
