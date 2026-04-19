@@ -11,6 +11,10 @@ enableEmoji = true
 [params.author]
     name = 'Franco Fierro'
 
+[[params.socialIcons]]
+    name = 'linkedin'
+    url = 'https://www.linkedin.com/in/franco-neud%C3%B6rfer-305783404/'
+
 [menu]
     [[menu.main]]
     name = 'Posts'
